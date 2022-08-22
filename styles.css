@@ -1,0 +1,39 @@
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    
+}
+html,body {
+    background-color: #141627
+}
+
+/* body {
+    background:#141627;  
+  } */
+  
+  /* body{
+    background: #f1f1f1;
+  }
+   */
+/* figure{
+      display:block;
+      width:200px;
+      height: 200px;
+      border-radius: 50%;
+      font-size: 25px;
+      text-align: center;
+      margin-right: 10px;
+      background: #000000;
+      line-height: 1.7em;
+  }
+  
+figure img{
+     display:inline-block;
+     width:500px;
+     height: auto;
+  } */
