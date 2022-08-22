@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "77fc161e0b2da707e07fe3eef7d0c99f",
+  "assets/AssetManifest.json": "d646e0cce31b69d4767f823036be64a9",
 "assets/assets/fonts/WorkSans-Black.ttf": "fef7be3906339b40b3032ad291d7e9f1",
 "assets/assets/fonts/WorkSans-BlackItalic.ttf": "70ea5b57f55661ae92c68739c08d9c78",
 "assets/assets/fonts/WorkSans-Bold.ttf": "c3c52b1b8ae0ad984a5fa87f99689b44",
@@ -119,7 +119,7 @@ const RESOURCES = {
 "assets/assets/images/projects/smile%2520ditection/android%2520images%2520list/8.jpg": "353cbb21c53fdaa75de9be14c1523f53",
 "assets/assets/images/projects/smile%2520ditection/android%2520images%2520list/9.jpg": "3c02399eadb3b9497dfe7cb51ffca8da",
 "assets/assets/images/projects/smile%2520ditection/cover.png": "5ce93a519e313a0c99d9822c5d4faeac",
-"assets/FontManifest.json": "1fc01140b8315948abc6295931b46f96",
+"assets/FontManifest.json": "f6e5f4234d44b241201d6567b5a735f0",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "3a5f22273350a0a078038594f199e5f1",
 "assets/packages/awesome_dialog/assets/flare/error.flr": "e3b124665e57682dab45f4ee8a16b3c9",
@@ -147,11 +147,13 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5f405c6e42cc154e09ef76855c994c75",
-"/": "5f405c6e42cc154e09ef76855c994c75",
+"img/flutter-logo.png": "4dcebc5137778a31d926f5648fddad67",
+"index.html": "317f591a126abf2e1467dd0ba1882491",
+"/": "317f591a126abf2e1467dd0ba1882491",
 "log.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "f22f7349aa13f2fd3ab3460ff51dd156",
+"main.dart.js": "38053628e5b0a9f37bbadb4d4e66da94",
 "manifest.json": "e59529082919720cd098c8eab9f81c07",
+"styles.css": "72d41b316ff8d0f18c17b30235b2948c",
 "version.json": "25ad4d006ea88e617352a180b6c2095b"
 };
 
